@@ -3,7 +3,7 @@
 #  Operating System: Raspberry Pi OS
 #  IDE: Visual Studio
 
-#  Programmer(s) name: Miguel Cano, Emrul Alam, Imtiaz Ahmed, Kan Hui Zhao,
+#  Programmer(s) name: Miguel Cano, Emrul Alam, Imtiaz Ahmed, Kan Hui Zhao
 #  date when code is created/modified: 12/02/2021
 
 #  The purpose of this code is to build a security system by using the following electrical components: RFID Tag and Reader, Membrane Matrix Keypad, LCD Display, Solenoid Door Lock.
