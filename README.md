@@ -7,5 +7,5 @@
 language	Expertise
 C++	      ★★★★★
 SQL	      ★★★★☆
-Java	    ★★★☆☆
-Python	  ★★☆☆☆
+Python	  ★★★☆☆
+Java 	    ★★☆☆☆
